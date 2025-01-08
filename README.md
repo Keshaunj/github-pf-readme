@@ -10,7 +10,7 @@ I'm a **Full-Stack Software Engineer** 🚀 with a passion for building scalable
 - **HTML5**, **CSS3**, **Sass**, **Tailwind CSS**
 
 ### Backend:
-- **Node.js**, **Express.js**, **Flask**, **GraphQL**, **Python**
+- **Node.js**, **Express.js**, **Flask**,  **Python**
 - **MySQL**, **SQL**
 
 ### Version Control & Tools:
@@ -18,7 +18,7 @@ I'm a **Full-Stack Software Engineer** 🚀 with a passion for building scalable
 - **VS Code**, **Postman**
 
 ### Cloud & Deployment:
-- **Heroku**, **DigitalOcean**
+- **Heroku**, **Render**
 
 ## 🚀 **My Projects**  
 Check out some of my work below:
